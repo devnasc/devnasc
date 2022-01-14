@@ -16,5 +16,4 @@
     
 </div><br/>
 
-Gosto de resolver problemas na maneira mais clara.
-Quero adiquirir mais conhecimento para agragar na minha carreira de TI.
+Adquirindo conhecimento para agregar ainda mais como um futuro profissional.
