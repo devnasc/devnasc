@@ -1,0 +1,4 @@
+p = float(input('Valor do produto: R$'))
+desconto = p*0.05
+vf = p - desconto
+print(f'Produto com 5% de desconto fica R${vf:.2f}')
