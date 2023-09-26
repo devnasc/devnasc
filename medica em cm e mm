@@ -1,3 +1,0 @@
-n1 = float(input('Metros: '))
-
-print(f'O valor em centímeros é: {n1*100:.0f}cm\nO valor em milímetros é: {n1*1000:.0f}mm ')
