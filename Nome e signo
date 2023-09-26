@@ -1,7 +1,0 @@
-nome = input('Digite seu nome: ')
-print(f'É um prazer te conhecer, {nome} !')
-
-idade = input('Qual sua idade? ')
-signo = input('Qual o seu signo? ')
-
-print(f'Você tem {idade} anos e seu signo é {signo}')
