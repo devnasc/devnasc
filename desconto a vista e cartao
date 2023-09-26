@@ -1,0 +1,6 @@
+produto = float(input('Valor do produto: R$'))
+
+avista = produto - (produto * 10/100)
+cartao = produto + (produto * 10/100)
+
+print(f'Valor à vista: R${avista}\nValor no cartão: R${cartao}')
