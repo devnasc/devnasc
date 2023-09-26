@@ -1,0 +1,6 @@
+largura = float(input('Largura em metros: '))
+altura = float(input('Altura em metros: '))
+
+area = largura * altura
+
+print(f'Para pintar essa parede será usado {area/2}')
