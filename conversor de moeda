@@ -1,0 +1,3 @@
+r = float(input('Valor na carteira: R$'))
+
+print(f'Valor em dólar: ${r/4.87:.2f}')
