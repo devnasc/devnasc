@@ -1,6 +1,9 @@
-n1 = int(input('Digite o primeiro numero: '))
-n2 = int(input('Digite o segundo numero: '))
-n3 = int(input('Digite o terceiro numero: '))
-lista = [n1,n2,n3]
-print(f'O menor valor digitado foi: {min(lista)}')
-print(f'O maior valor digitado foi: {max(lista)}')
+numeros = []
+for c in range(1,4):
+    num = int(input(f'Digite o {c}º número: '))
+    numeros.append(num)
+if numeros[0] == numeros[1] == numeros[2]:
+    print('Não existe maior, os números são iguais!')
+else:
+    print(f'O maior número digitado foi {max(numeros)}')
+    print(f'O menor número digitado foi {min(numeros)}')
